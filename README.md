@@ -7,7 +7,7 @@
 
     - First page is the home page that describes my background, interest, plans.
 
-    - Second page is Area calculator that calculates the tax of a person.
+    - Second page is Area calculator that calculates the area of the sector.
 
     - Third page contains contact information.
 
