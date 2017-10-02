@@ -1,0 +1,26 @@
+p
+{
+   font-size: 150%;
+}
+h1
+{
+text-align: center;
+}
+section
+{
+text-align: center;
+}
+body
+{
+background-image: url("AREA.JPG");
+background-position: center ;
+    background-attachment: fixed;
+	height: 200px;
+    width: 85%;
+background-size: cover;
+}
+#resultMessage
+{
+    color: blue;
+    font-size: 30px;
+}

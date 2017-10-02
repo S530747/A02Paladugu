@@ -1,0 +1,19 @@
+h1
+{
+text-align: center;
+}
+section
+{
+text-align: center;
+}
+
+	
+body
+{
+background-image: url("85.jpg");
+ background-position: center ;
+    background-attachment: fixed;
+	height: 200px;
+    width: 85%;
+background-size: cover;
+}
